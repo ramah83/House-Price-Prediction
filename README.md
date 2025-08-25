@@ -18,7 +18,8 @@
 
 
 
-A machine learning project to predict house prices using the Boston Housing Dataset and XGBoost Regressor.The model is trained, evaluated, and visualized with multiple performance metrics.
+A machine learning project to predict house prices using the Boston Housing Dataset and XGBoost Regressor.
+The model is trained, evaluated, and visualized with multiple performance metrics.
 
 
 
@@ -268,16 +269,13 @@ Residual analysis
 
 
 
-
-
-
-
 ├── BostonHousing.csv                ← Dataset
 ├── House Price Prediction.ipynb     ← Jupyter Notebook (main workflow)
 ├── outputs/                         ← Graphs & plots (optional)
 └── README.md                        ← Project documentation
 
 
+```
 
 ---
 
